@@ -21,3 +21,7 @@ main:
     conference_short: ICALP
     conference: 49th International Colloquium on Automata, Languages, and Programming ICALP 2022.
     pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol229-icalp2022/LIPIcs.ICALP.2022.68/LIPIcs.ICALP.2022.68.pdf
+    code: https://github.com/ghazalkhalighinejad/approximating-cky
+    image: ./assets/img/approx_cky.png
+
+
