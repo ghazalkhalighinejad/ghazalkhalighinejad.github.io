@@ -15,3 +15,10 @@ main:
     pdf: https://aclanthology.org/2023.findings-emnlp.934.pdf
     code: https://github.com/ghazalkhalighinejad/approximating-cky
     image: ./assets/img/approx_cky.png
+
+  - title: "Galloping in fast-growth natural merge sorts"
+    authors: Elahe Ghasemi, Vincent Jugé, <strong>Ghazal Khalighinejad</strong>
+    conference_short: ICALP
+    conference: International Colloquium on Automata, Languages, and Programming <strong>(ICALP)</strong>, 2022.
+    pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol229-icalp2022/LIPIcs.ICALP.2022.68/LIPIcs.ICALP.2022.68.pdf
+    image: ./assets/img/gallop.png
