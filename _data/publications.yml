@@ -1,7 +1,7 @@
 main:
 
   - title: Extracting Polymer Nanocomposite Samples from Full-Length Documents
-    authors: Ghazal Khalighinejad, Defne Circi, LC Brinson, Bhuwan Dhingra
+    authors: <strong>Ghazal Khalighinejad</strong>, Defne Circi, LC Brinson, Bhuwan Dhingra
     conference_short: ACL
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -11,7 +11,7 @@ main:
     notes: Early Accept
 
   - title: "Approximating CKY with Transformers"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    authors: <strong>Ghazal Khalighinejad</strong>, Ollie Liu, Sam Wiseman
     conference_short: EMNLP
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
