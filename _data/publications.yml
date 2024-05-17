@@ -1,7 +1,7 @@
 main:
 
   - title: Extracting Polymer Nanocomposite Samples from Full-Length Documents
-    authors: Ghazal Khalighinejad, Defne Circi, LC Brinson, Bhuwan Dhingra
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: ACL
     conference: Findings of the Association for Computational Linguistics: ACL, 2023.
     pdf: https://arxiv.org/pdf/2403.00260.pdf
