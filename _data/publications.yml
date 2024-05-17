@@ -5,8 +5,8 @@ main:
     conference_short: Preprint
     conference: Preprint
     pdf: https://arxiv.org/abs/2404.01266
-    website: https://isobench.github.io/
-    image: ./assets/img/pncextract.png
+    page: https://isobench.github.io/
+    image: ./assets/img/isobench.png
     
   - title: Extracting Polymer Nanocomposite Samples from Full-Length Documents
     authors: <strong>Ghazal Khalighinejad</strong>, Defne Circi, LC Brinson, Bhuwan Dhingra
