@@ -3,7 +3,7 @@ main:
   - title: Extracting Polymer Nanocomposite Samples from Full-Length Documents
     authors: <strong>Ghazal Khalighinejad</strong>, Defne Circi, LC Brinson, Bhuwan Dhingra
     conference_short: ACL
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -13,7 +13,7 @@ main:
   - title: "Approximating CKY with Transformers"
     authors: <strong>Ghazal Khalighinejad</strong>, Ollie Liu, Sam Wiseman
     conference_short: EMNLP
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
