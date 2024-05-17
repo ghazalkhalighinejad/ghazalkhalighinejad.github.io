@@ -7,6 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2403.00260
     code: https://github.com/ghazalkhalighinejad/PNCExtract
     image: ./assets/img/pncextract.png
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
 
   - title: "Approximating CKY with Transformers"
     authors: Ghazal Khalighinejad, Ollie Liu, Sam Wiseman
@@ -15,6 +16,7 @@ main:
     pdf: https://aclanthology.org/2023.findings-emnlp.934.pdf
     code: https://github.com/ghazalkhalighinejad/approximating-cky
     image: ./assets/img/approx_cky.png
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
 
   - title: "Galloping in fast-growth natural merge sorts"
     authors: Elahe Ghasemi, Vincent Jugé, Ghazal Khalighinejad
@@ -23,5 +25,6 @@ main:
     pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol229-icalp2022/LIPIcs.ICALP.2022.68/LIPIcs.ICALP.2022.68.pdf
     code: https://github.com/ghazalkhalighinejad/approximating-cky
     image: ./assets/img/approx_cky.png
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
 
 
