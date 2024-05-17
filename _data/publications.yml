@@ -1,7 +1,7 @@
 main:
 
   - title: Extracting Polymer Nanocomposite Samples from Full-Length Documents
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: Ghazal Khalighinejad, Defne Circi, LC Brinson, Bhuwan Dhingra
     conference_short: ACL
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -12,7 +12,7 @@ main:
 
   - title: "Approximating CKY with Transformers"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
+    conference_short: EMNLP
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
