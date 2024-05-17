@@ -1,22 +1,24 @@
 main:
+    
+  - title: "Extracting Polymer Nanocomposite Samples from Full-Length Documents"
+    authors: Ghazal Khalighinejad, Defne Circi, LC Brinson, Bhuwan Dhingra
+    conference_short: ACL
+    conference: Findings of the Association for Computational Linguistics: EMNLP 2023.
+    pdf: https://arxiv.org/pdf/2403.00260
+    code: https://github.com/ghazalkhalighinejad/PNCExtract
+    image: ./assets/img/pncextract.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Approximating CKY with Transformers"
+    authors: Ghazal Khalighinejad, Ollie Liu, Sam Wiseman
+    conference_short: EMNLP
+    conference: Findings of the Association for Computational Linguistics: EMNLP 2023.
+    pdf: https://aclanthology.org/2023.findings-emnlp.934.pdf
+    code: https://github.com/ghazalkhalighinejad/approximating-cky
+    image: ./assets/img/approx_cky.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Galloping in fast-growth natural merge sorts"
+    authors: Elahe Ghasemi, Vincent Jugé, Ghazal Khalighinejad
+    conference_short: ICALP
+    conference: 49th International Colloquium on Automata, Languages, and Programming ICALP 2022.
+    pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol229-icalp2022/LIPIcs.ICALP.2022.68/LIPIcs.ICALP.2022.68.pdf
+    slides: https://ghazalkhalighinejad.github.io/_pages/icalp2022.pdf
