@@ -2,7 +2,7 @@ main:
 
   - title: IsoBench Benchmarking Multimodal Foundation Models on Isomorphic Representations
     authors: Deqing Fu*, <strong>Ghazal Khalighinejad</strong>*, Ollie Liu*, and Bhuwan Dhingra, Dani Yogatama, Robin Jia, Willie Neiswanger
-    conference_short: Preprint
+    conference_short: COLM
     conference: Preprint
     pdf: https://arxiv.org/abs/2404.01266
     page: https://isobench.github.io/
