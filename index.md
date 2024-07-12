@@ -11,6 +11,8 @@ I am a PhD candidate in the Department of Computer Science at Duke University, f
 Previously, I was an undergrad at Sharif University of Technology, advised by Prof. [Vincent Jugé](http://igm.univ-mlv.fr/~juge/). My research focused on sorting algorithms. 
 
 ## News
+- **Summer 2024**: IsoBench has been accepted to the [Conference on Language Modeling](https://colmweb.org/).
+- **Summer 2024**: I started my internship at Adobe!
 - **Spring 2024**: Our paper [PNCExtract](https://arxiv.org/pdf/2403.00260) got accepted into Findings of ACL 2024.
 - **Spring 2024**: We introduce [IsoBench](http://IsoBench.github.io), a benchmark for multimodal models with isomorphic inputs.
 - **Fall 2023**: Our paper [Approximating CKY with Transformers](https://arxiv.org/abs/2305.02386) got accepted into Findings of EMNLP 2023.
