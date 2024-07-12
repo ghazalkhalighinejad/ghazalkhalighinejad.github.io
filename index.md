@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate in the Department of Computer Science at Duke University, fortunate to be advised by [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). My research centers on two primary areas:
-- algorithmic reasoning, particularly understanding language models' ability to learn and execute algorithms.
-- leveraging LLMs for science; a significant portion of my recent work involves extracting structured information from materials science literature.
+I am a PhD candidate in the Department of Computer Science at Duke University, fortunate to be advised by [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/). 
 
-Previously, I was an undergrad at Sharif University of Technology, advised by Prof. [Vincent Jugé](http://igm.univ-mlv.fr/~juge/). My research focused on sorting algorithms. 
+Previously, I was an undergrad at Sharif University of Technology, advised by Prof. [Vincent Jugé](http://igm.univ-mlv.fr/~juge/). 
+
+I am broadly interested in interpretability and reasoning in multimodal large language models.
 
 ## News
 - **Summer 2024**: IsoBench has been accepted to the [Conference on Language Modeling](https://colmweb.org/).
