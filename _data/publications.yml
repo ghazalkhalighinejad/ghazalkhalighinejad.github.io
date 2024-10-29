@@ -1,12 +1,12 @@
 main:
 
-  - title: MatViX: Multimodal Information Extraction from Visually Rich Articles
-    authors: <strong>Ghazal Khalighinejad</strong>, Sharon Scott, Ollie Liu, Kelly Anderson, Rickard Stureborg, Aman Tyagi, Bhuwan Dhingra
-    conference_short: arXiv
-    conference: arXiv
-    pdf: https://arxiv.org/abs/2410.20494
-    page: https://matvix-bench.github.io/
-    image: ./assets/img/matvix.png
+  - title: IsoBench Benchmarking Multimodal Foundation Models on Isomorphic Representations
+    authors: Deqing Fu*, <strong>Ghazal Khalighinejad</strong>*, Ollie Liu*, and Bhuwan Dhingra, Dani Yogatama, Robin Jia, Willie Neiswanger
+    conference_short: COLM
+    conference: Conference on Language Modeling
+    pdf: https://arxiv.org/abs/2404.01266
+    page: https://isobench.github.io/
+    image: ./assets/img/isobench.png
     
   - title: IsoBench Benchmarking Multimodal Foundation Models on Isomorphic Representations
     authors: Deqing Fu*, <strong>Ghazal Khalighinejad</strong>*, Ollie Liu*, and Bhuwan Dhingra, Dani Yogatama, Robin Jia, Willie Neiswanger
