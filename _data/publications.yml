@@ -1,10 +1,10 @@
 main:
 
-  - title: IsoBench Benchmarking Multimodal Foundation Models on Isomorphic Representations
+  - title: MatViX: Multimodal Information Extraction from Visually Rich Articles
     authors: Deqing Fu*, <strong>Ghazal Khalighinejad</strong>*, Ollie Liu*, and Bhuwan Dhingra, Dani Yogatama, Robin Jia, Willie Neiswanger
     conference_short: Preprint
     conference: arXiv
-    pdf: https://arxiv.org/abs/2404.01266
+    pdf: https://arxiv.org/abs/2410.20494
     page: https://isobench.github.io/
     image: ./assets/img/isobench.png
     
