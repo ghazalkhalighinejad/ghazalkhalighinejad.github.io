@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate in the Department of Computer Science at Duke University, fortunate to be advised by [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/), and previously advised by [Sam Wiseman](https://swiseman.github.io/).
+I am a PhD candidate in the Department of Computer Science at Duke University, fortunate to be advised by [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/), and previously advised by [Sam Wiseman](https://swiseman.github.io/). Previously, I was an undergrad at Sharif University of Technology. 
 
-Previously, I was an undergrad at Sharif University of Technology. 
-
-I am broadly interested in interpretability and reasoning in multimodal large language models.
+I am interested in advancing the capabilities of transformer-based models, with a focus on addressing problems in sciences. My research explores how neural architectures shape model performance, methods for embedding multimodal data, and strategies for handling
+challenges associated with long-context tasks.
 
 ## News
+- **Fall 2024**: Check out our new preprint, MatViX: [https://matvix-bench.github.io/](https://matvix-bench.github.io/), a benchmark for multimodal information extraction from long documents.
 - **Summer 2024**: IsoBench has been accepted to the [Conference on Language Modeling](https://colmweb.org/).
 - **Summer 2024**: I started my internship at Adobe!
 - **Spring 2024**: Our paper [PNCExtract](https://arxiv.org/pdf/2403.00260) got accepted into Findings of ACL 2024.
