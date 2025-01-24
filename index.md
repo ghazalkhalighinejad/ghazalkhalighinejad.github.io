@@ -10,6 +10,7 @@ I am interested in advancing the capabilities of transformer-based models, with 
 challenges associated with long-context tasks.
 
 ## News
+- **Spring 2025**: [MatViX](https://matvix-bench.github.io/) has been accepted to NAACL 2025 main conference. 
 - **Fall 2024**: Check out our new preprint, MatViX: [https://matvix-bench.github.io/](https://matvix-bench.github.io/), a benchmark for multimodal information extraction from long documents.
 - **Summer 2024**: IsoBench has been accepted to the [Conference on Language Modeling](https://colmweb.org/).
 - **Summer 2024**: I started my internship at Adobe!
