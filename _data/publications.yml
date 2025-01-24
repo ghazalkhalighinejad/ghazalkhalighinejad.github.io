@@ -2,8 +2,8 @@ main:
 
   - title: MatViX Multimodal Information Extraction from Visually Rich Articles
     authors: <strong>Ghazal Khalighinejad</strong>, Sharon Scott, Ollie Liu, Kelly L. Anderson, Rickard Stureborg, Aman Tyagi, Bhuwan Dhingra
-    conference_short: Preprint
-    conference: arXiv
+    conference_short: NAACL
+    conference: To appear at NAACL 2025
     pdf: https://arxiv.org/abs/2410.20494
     page: https://matvix-bench.github.io/
     image: ./assets/img/matvix.png
@@ -19,7 +19,7 @@ main:
   - title: Extracting Polymer Nanocomposite Samples from Full-Length Documents
     authors: <strong>Ghazal Khalighinejad</strong>, Defne Circi, LC Brinson, Bhuwan Dhingra
     conference_short: ACL
-    conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024.
+    conference: Findings of <strong>ACL</strong>, 2024.
     pdf: https://arxiv.org/pdf/2403.00260.pdf
     code: https://github.com/ghazalkhalighinejad/PNCExtract
     image: ./assets/img/pncextract.png
@@ -27,7 +27,7 @@ main:
   - title: "Approximating CKY with Transformers"
     authors: <strong>Ghazal Khalighinejad</strong>, Ollie Liu, Sam Wiseman
     conference_short: EMNLP
-    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP)</strong>, 2023.
+    conference: Findings of <strong>EMNLP</strong>, 2023.
     pdf: https://aclanthology.org/2023.findings-emnlp.934.pdf
     code: https://github.com/ghazalkhalighinejad/approximating-cky
     image: ./assets/img/approx_cky.png
