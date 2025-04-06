@@ -3,7 +3,7 @@ main:
   - title: MatViX Multimodal Information Extraction from Visually Rich Articles
     authors: <strong>Ghazal Khalighinejad</strong>, Sharon Scott, Ollie Liu, Kelly L. Anderson, Rickard Stureborg, Aman Tyagi, Bhuwan Dhingra
     conference_short: NAACL
-    conference: To appear at NAACL 2025
+    conference: NAACL 2025 (<span style="color:red;"><i>oral</i></span>)
     pdf: https://arxiv.org/abs/2410.20494
     page: https://matvix-bench.github.io/
     image: ./assets/img/matvix.png
