@@ -7,6 +7,14 @@ main:
     pdf: https://arxiv.org/abs/2410.20494
     page: https://matvix-bench.github.io/
     image: ./assets/img/matvix.png
+
+  - title: Training Neural Networks as Recognizers of Formal Languages
+    authors: Alexandra Butoi, <strong>Ghazal Khalighinejad</strong>, Anej Svete, Josef Valvoda, Ryan Cotterell, Brian DuSell
+    conference_short: ICLR
+    conference: ICLR 2025
+    pdf: https://arxiv.org/abs/2411.07107
+    code: https://github.com/rycolab/neural-network-recognizers
+    image: ./assets/img/flare.png
     
   - title: IsoBench Benchmarking Multimodal Foundation Models on Isomorphic Representations
     authors: Deqing Fu*, <strong>Ghazal Khalighinejad</strong>*, Ollie Liu*, and Bhuwan Dhingra, Dani Yogatama, Robin Jia, Willie Neiswanger
