@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate in the Department of Computer Science at Duke University, fortunate to be advised by [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/), and previously advised by [Sam Wiseman](https://swiseman.github.io/). Previously, I was an undergrad at Sharif University of Technology. 
+I am a PhD candidate in the Department of Computer Science at Duke University, fortunate to be advised by [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/), and previously advised by [Sam Wiseman](https://swiseman.github.io/). I'm also Previously, I was an undergrad at Sharif University of Technology. 
 
 I am interested in advancing the capabilities of transformer-based models, with a focus on addressing problems in sciences. My research explores how neural architectures shape model performance, methods for embedding multimodal data, and strategies for handling
 challenges associated with long-context tasks.
 
 ## News
+- **Summer 2025**: Started my internship at Google!
 - **Spring 2025**: ["Training Neural Networks as Recognizers of Formal Languages"](https://arxiv.org/abs/2411.07107) accepted at ICLR 2025!
 - **Spring 2025**: [MatViX](https://matvix-bench.github.io/) has been accepted to NAACL 2025 main conference as an <span style="color:red;">oral presentation</span>.
 - **Fall 2024**: Check out our new preprint, MatViX: [https://matvix-bench.github.io/](https://matvix-bench.github.io/), a benchmark for multimodal information extraction from long documents.
