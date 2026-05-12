@@ -11,6 +11,7 @@ challenges associated with long-context tasks.
 
 ## News
 
+- **Summer 2026** — Started my internship at [Polymathic AI](https://polymathic-ai.org/), working on AI agents for science.
 - **Spring 2026** — New preprint: [Document-as-Image Representations Fall Short for Scientific Retrieval](https://arxiv.org/abs/2604.18508).
 - **Summer 2025** — Started my internship at Google.
 - **Spring 2025** — [Training Neural Networks as Recognizers of Formal Languages](https://arxiv.org/abs/2411.07107) accepted at ICLR 2025.
