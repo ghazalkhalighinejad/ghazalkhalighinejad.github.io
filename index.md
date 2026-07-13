@@ -11,6 +11,7 @@ challenges associated with long-context tasks.
 
 ## News
 
+- **Summer 2026** — [Document-as-Image Representations Fall Short for Scientific Retrieval](https://arxiv.org/abs/2604.18508) accepted to COLM 2026.
 - **Summer 2026** — Started my internship at [Polymathic AI](https://polymathic-ai.org/), working on AI agents for science.
 - **Spring 2026** — New preprint: [Document-as-Image Representations Fall Short for Scientific Retrieval](https://arxiv.org/abs/2604.18508).
 - **Summer 2025** — Started my internship at Google.

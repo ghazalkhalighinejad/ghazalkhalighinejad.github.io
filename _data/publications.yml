@@ -1,5 +1,12 @@
 main:
 
+  - title: Document-as-Image Representations Fall Short for Scientific Retrieval
+    authors: <strong>Ghazal Khalighinejad</strong>, Raghuveer Thirukovalluru, Alexander H. Oh, Bhuwan Dhingra
+    conference_short: COLM
+    conference: Conference on Language Modeling (<strong>COLM</strong>), 2026.
+    pdf: https://arxiv.org/abs/2604.18508
+    image: ./assets/img/arxivdoc.png
+
   - title: MatViX Multimodal Information Extraction from Visually Rich Articles
     authors: <strong>Ghazal Khalighinejad</strong>, Sharon Scott, Ollie Liu, Kelly L. Anderson, Rickard Stureborg, Aman Tyagi, Bhuwan Dhingra
     conference_short: NAACL
