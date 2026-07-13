@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate in the Department of Computer Science at Duke University, fortunate to be advised by [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/), and previously advised by [Sam Wiseman](https://swiseman.github.io/). Previously, I was an undergrad at Sharif University of Technology. 
+I am a PhD candidate in the Department of Computer Science at Duke University, fortunate to be advised by [Prof. Bhuwan Dhingra](https://users.cs.duke.edu/~bdhingra/), and previously advised by [Sam Wiseman](https://swiseman.github.io/). Before Duke, I was an undergraduate student at Sharif University of Technology.
 
-I am interested in advancing the capabilities of transformer-based models, with a focus on addressing problems in sciences. My research explores how neural architectures shape model performance, methods for embedding multimodal data, and strategies for handling
-challenges associated with long-context tasks.
+My research focuses on Natural Language Processing and Multimodal Large Language Models, with an
+emphasis on improving embedding methods for multimodal long-document retrieval and building LLM agents for scientific discovery. In the past, I’ve worked on structured information extraction from scientific articles, benchmarking the reasoning of multimodal models, and the algorithmic capabilities of transformers.
 
 ## News
 
