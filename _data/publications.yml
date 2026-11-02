@@ -1,13 +1,15 @@
 main:
 
-  - title: Document-as-Image Representations Fall Short for Scientific Retrieval
+  - topic: Scientific Document Understanding
+    title: Document-as-Image Representations Fall Short for Scientific Retrieval
     authors: <strong>Ghazal Khalighinejad</strong>, Raghuveer Thirukovalluru, Alexander H. Oh, Bhuwan Dhingra
     conference_short: COLM
     conference: Conference on Language Modeling (<strong>COLM</strong>), 2026.
     pdf: https://arxiv.org/abs/2604.18508
     image: ./assets/img/arxivdoc.png
 
-  - title: MatViX Multimodal Information Extraction from Visually Rich Articles
+  - topic: Scientific Document Understanding
+    title: MatViX Multimodal Information Extraction from Visually Rich Articles
     authors: <strong>Ghazal Khalighinejad</strong>, Sharon Scott, Ollie Liu, Kelly L. Anderson, Rickard Stureborg, Aman Tyagi, Bhuwan Dhingra
     conference_short: NAACL
     conference: NAACL 2025 (<span style="color:red;"><i>oral</i></span>)
@@ -15,23 +17,17 @@ main:
     page: https://matvix-bench.github.io/
     image: ./assets/img/matvix.png
 
-  - title: Training Neural Networks as Recognizers of Formal Languages
-    authors: Alexandra Butoi, <strong>Ghazal Khalighinejad</strong>, Anej Svete, Josef Valvoda, Ryan Cotterell, Brian DuSell
-    conference_short: ICLR
-    conference: ICLR 2025
-    pdf: https://arxiv.org/abs/2411.07107
-    code: https://github.com/rycolab/neural-network-recognizers
-    image: ./assets/img/flare.png
-    
-  - title: IsoBench Benchmarking Multimodal Foundation Models on Isomorphic Representations
+  - topic: Scientific Document Understanding
+    title: IsoBench Benchmarking Multimodal Foundation Models on Isomorphic Representations
     authors: Deqing Fu*, <strong>Ghazal Khalighinejad</strong>*, Ollie Liu*, and Bhuwan Dhingra, Dani Yogatama, Robin Jia, Willie Neiswanger
     conference_short: COLM
     conference: Conference on Language Modeling
     pdf: https://arxiv.org/abs/2404.01266
     page: https://isobench.github.io/
     image: ./assets/img/isobench.png
-    
-  - title: Extracting Polymer Nanocomposite Samples from Full-Length Documents
+
+  - topic: Scientific Document Understanding
+    title: Extracting Polymer Nanocomposite Samples from Full-Length Documents
     authors: <strong>Ghazal Khalighinejad</strong>, Defne Circi, LC Brinson, Bhuwan Dhingra
     conference_short: ACL
     conference: Findings of <strong>ACL</strong>, 2024.
@@ -39,7 +35,17 @@ main:
     code: https://github.com/ghazalkhalighinejad/PNCExtract
     image: ./assets/img/pncextract.png
 
-  - title: "Approximating CKY with Transformers"
+  - topic: Formal Languages and Neural Models
+    title: Training Neural Networks as Recognizers of Formal Languages
+    authors: Alexandra Butoi, <strong>Ghazal Khalighinejad</strong>, Anej Svete, Josef Valvoda, Ryan Cotterell, Brian DuSell
+    conference_short: ICLR
+    conference: ICLR 2025
+    pdf: https://arxiv.org/abs/2411.07107
+    code: https://github.com/rycolab/neural-network-recognizers
+    image: ./assets/img/flare.png
+
+  - topic: Formal Languages and Neural Models
+    title: "Approximating CKY with Transformers"
     authors: <strong>Ghazal Khalighinejad</strong>, Ollie Liu, Sam Wiseman
     conference_short: EMNLP
     conference: Findings of <strong>EMNLP</strong>, 2023.
@@ -47,7 +53,8 @@ main:
     code: https://github.com/ghazalkhalighinejad/approximating-cky
     image: ./assets/img/approx_cky.png
 
-  - title: "Galloping in fast-growth natural merge sorts"
+  - topic: Algorithms and Theoretical Computer Science
+    title: "Galloping in fast-growth natural merge sorts"
     authors: Elahe Ghasemi, Vincent Jugé, <strong>Ghazal Khalighinejad</strong>
     conference_short: ICALP
     conference: International Colloquium on Automata, Languages, and Programming <strong>(ICALP)</strong>, 2022.
