@@ -1,6 +1,6 @@
 main:
 
-  - topic: Scientific Document Understanding
+  - topic: Multimodal Models and Applications
     title: Document-as-Image Representations Fall Short for Scientific Retrieval
     authors: <strong>Ghazal Khalighinejad</strong>, Raghuveer Thirukovalluru, Alexander H. Oh, Bhuwan Dhingra
     conference_short: COLM
@@ -8,7 +8,7 @@ main:
     pdf: https://arxiv.org/abs/2604.18508
     image: ./assets/img/arxivdoc.png
 
-  - topic: Scientific Document Understanding
+  - topic: Multimodal Models and Applications
     title: MatViX Multimodal Information Extraction from Visually Rich Articles
     authors: <strong>Ghazal Khalighinejad</strong>, Sharon Scott, Ollie Liu, Kelly L. Anderson, Rickard Stureborg, Aman Tyagi, Bhuwan Dhingra
     conference_short: NAACL
@@ -17,7 +17,7 @@ main:
     page: https://matvix-bench.github.io/
     image: ./assets/img/matvix.png
 
-  - topic: Scientific Document Understanding
+  - topic: Multimodal Models and Applications
     title: IsoBench Benchmarking Multimodal Foundation Models on Isomorphic Representations
     authors: Deqing Fu*, <strong>Ghazal Khalighinejad</strong>*, Ollie Liu*, and Bhuwan Dhingra, Dani Yogatama, Robin Jia, Willie Neiswanger
     conference_short: COLM
@@ -26,7 +26,7 @@ main:
     page: https://isobench.github.io/
     image: ./assets/img/isobench.png
 
-  - topic: Scientific Document Understanding
+  - topic: Multimodal Models and Applications
     title: Extracting Polymer Nanocomposite Samples from Full-Length Documents
     authors: <strong>Ghazal Khalighinejad</strong>, Defne Circi, LC Brinson, Bhuwan Dhingra
     conference_short: ACL
@@ -35,7 +35,7 @@ main:
     code: https://github.com/ghazalkhalighinejad/PNCExtract
     image: ./assets/img/pncextract.png
 
-  - topic: Formal Languages and Neural Models
+  - topic: Algorithmic Abilities of Models
     title: Training Neural Networks as Recognizers of Formal Languages
     authors: Alexandra Butoi, <strong>Ghazal Khalighinejad</strong>, Anej Svete, Josef Valvoda, Ryan Cotterell, Brian DuSell
     conference_short: ICLR
@@ -44,7 +44,7 @@ main:
     code: https://github.com/rycolab/neural-network-recognizers
     image: ./assets/img/flare.png
 
-  - topic: Formal Languages and Neural Models
+  - topic: Algorithmic Abilities of Models
     title: "Approximating CKY with Transformers"
     authors: <strong>Ghazal Khalighinejad</strong>, Ollie Liu, Sam Wiseman
     conference_short: EMNLP

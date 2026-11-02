@@ -5,7 +5,10 @@
 
 {% for group in publication_groups %}
   <div class="publication-group">
-    <h3 class="publication-topic">{{ group.name }}</h3>
+    <h3 class="publication-topic">
+      <span>{{ group.name }}</span>
+      <span class="publication-count">{{ group.items | size }} paper{% if group.items.size != 1 %}s{% endif %}</span>
+    </h3>
     <ol class="bibliography">
       {% for link in group.items %}
       <li>
