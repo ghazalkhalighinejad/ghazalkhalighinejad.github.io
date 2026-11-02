@@ -38,10 +38,6 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications .publication-topic {
     margin: 0 0 0.75rem 0;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 0.75rem;
     font-size: 1.05rem;
     font-weight: 700;
     letter-spacing: 0.02em;
@@ -49,18 +45,6 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     text-transform: uppercase;
     border-bottom: 1px solid rgba(0, 0, 0, 0.08);
     padding: 0.1rem 0 0.55rem;
-}
-
-.publications .publication-count {
-    font-size: 0.7rem;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    text-transform: none;
-    color: rgba(0, 0, 0, 0.7);
-    background: rgba(0, 45, 114, 0.06);
-    border: 1px solid rgba(0, 45, 114, 0.08);
-    border-radius: 999px;
-    padding: 0.28rem 0.6rem;
 }
 
 .publications h2.year { color: #e8e8e8; border-top: 1px solid #e8e8e8; margin-top: 2rem; margin-bottom: 0rem; text-align: right; }
